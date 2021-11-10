@@ -1,4 +1,4 @@
-# Microsoft Graph Confidential Client Example
+# Microsoft Graph Client Demos
 Creates an MS Graph Confidential Client and reads users as JSON.
 
 ## Create an AppRegistration in AzureAD
@@ -32,3 +32,6 @@ python msgraph-confidential-client-example.py \
     --secretdbkey ../GraphSecrets.keyx 
 
 ```
+
+## TODO
+* Add some exception handling
